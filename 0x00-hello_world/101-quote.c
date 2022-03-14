@@ -4,7 +4,6 @@
 /**
 *main - Entry point prints the statement in quotes to the standard error
 *
-* 
 *Return: The program returns a one
 */
 int main(void)
