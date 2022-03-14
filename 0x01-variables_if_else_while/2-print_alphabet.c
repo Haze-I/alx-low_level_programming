@@ -2,7 +2,8 @@
 
 /**
 *main - prints the alphabet in lowecase
-Return: 0 (Always Success)
+*
+*Return: 0 (Always Success)
 */
 int main(void)
 {
