@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 
 /**
  * main -  calculate largest prime of 612852475143
